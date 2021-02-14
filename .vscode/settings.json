@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.packageManager": "yarn",
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "prettier.withNodeModules": true,
+    "prettier.trailingComma": "all"
+}
