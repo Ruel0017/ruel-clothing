@@ -4,6 +4,7 @@ import MenuItem from '../menu-item/menu-item.component';
 import './directory.styles.scss';
 
 //class component
+//nag hohold ng state component
 
 class Directory extends React.Component {
 	constructor() {

@@ -3,6 +3,7 @@ import React from 'react';
 import './menu-item.styles.scss';
 
 //functional component
+//functional component hindi nag hohold ng state
 
 const MenuItem = ({ title, imageUrl, size }) => (
 	<div className={`${size} menu-item`}>
