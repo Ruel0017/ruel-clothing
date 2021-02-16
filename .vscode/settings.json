@@ -5,6 +5,8 @@
     "prettier.resolveGlobalModules": true,
     "prettier.singleQuote": true,
     "prettier.useTabs": true,
-    "prettier.withNodeModules": true,
-    "prettier.trailingComma": "all"
+    "prettier.trailingComma": "all",
+    "prettier.jsxSingleQuote": true,
+    "prettier.requireConfig": true,
+    "prettier.vueIndentScriptAndStyle": true
 }
